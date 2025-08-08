@@ -39,7 +39,7 @@ The Press Search Tool is a python CLI application helping users find, filter and
 Requirements:
 - Python
 - Git
-- NewAPI Key (free to sign up)
+- NewAPI Key (free to sign up at https://newsapi.org/)
 
 Step 1:
 git clone https://github.com/YOUR-USERNAME 
