@@ -43,30 +43,29 @@ Requirements:
 
 Step 1:
 git clone https://github.com/YOUR-USERNAME 
-    - real clone repository link can be found in block 1 of Google Colab file. Refer to Option 1 -step one for Colab access
+- real clone repository link can be found in block 1 of Google Colab file. Refer to Option 1 -step one for Colab access
 
 Then:
-cd press-search-tool
+- cd press-search-tool
 
 Step 2:
 pip install all dependencies - there may be more!
-    - pip install python-dotenv
+- pip install python-dotenv
 
 Step 4:
 Create an .env file and add the following
-NEWS_API_KEY=your_api_key_here
+- NEWS_API_KEY=your_api_key_here
 
 Step 5:
 run python src/main.py into terminal
-
-A csv file should appear in your data folder.
+- A csv file should appear in your data folder.
 
 #### Example Run
-Welcome to Press Search Tool by Dagem Legesse.
-Option A: Topic (e.g., Medicaid) or Option B: Location (e.g., New York City)
-Please enter your keyword or location: New York City
-Do you want to filter by date? (Y/N): NO
-Exported results to data/press_search_new york city.csv
+- Welcome to Press Search Tool by Dagem Legesse.
+- Option A: Topic (e.g., Medicaid) or Option B: Location (e.g., New York City)
+- Please enter your keyword or location: New York City
+- Do you want to filter by date? (Y/N): NO
+- Exported results to data/press_search_new york city.csv
 
 #### Challenges
 - Only 100 API calls per day
