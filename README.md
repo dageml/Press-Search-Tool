@@ -15,6 +15,7 @@ Tell the tool what you're looking for - either a keyword or location
 Tool searches the NewsApi database for relevant articles
 Removes unverified sources (This can be adjustable)
 Saves cleaned results as a csv file for you to open
+If needed, you may add or adjust the list of non reputable sources, refer to Option 1 - step 7
 
 #### Ways to Use this Tool
 1. Google Colab
@@ -32,6 +33,7 @@ Saves cleaned results as a csv file for you to open
   - if yes enter date in YYYY-MM-DD format
 5. Wait for program to run
 6. Download the csv file by clicking on the folder icon
+7. OPTIONAL - To manually adjust 
 
 #### Option 2
 Requirements:
@@ -40,7 +42,10 @@ Git
 NewAPI Key (free to sign up)
 
 Step 1:
-git clone https://github.com/YOUR-USERNAME/press-search-tool.git
+git clone https://github.com/YOUR-USERNAME 
+  - real clone repository link can be found in block 1 of Google Colab file. Refer to Option 1 -step one for Colab access
+
+Then:
 cd press-search-tool
 
 Step 2:
