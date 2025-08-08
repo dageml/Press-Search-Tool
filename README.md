@@ -65,6 +65,7 @@ Exported results to data/press_search_new york city.csv
 
 #### Challenges
 - Only 100 API calls per day
+- Manual addition of non reputable sources
 
 
 ### Support 
