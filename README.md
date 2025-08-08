@@ -33,7 +33,7 @@ If needed, you may add or adjust the list of non reputable sources, refer to Opt
   - if yes enter date in YYYY-MM-DD format
 5. Wait for program to run
 6. Download the csv file by clicking on the folder icon
-7. OPTIONAL - To manually adjust 
+7. OPTIONAL - To manually adjust list of "bad outlets" click the folder icon, then click Press-Search-Tool, then click src, then click cleaner.py. From there manually type in outlets you want to eliminate from the exported csv. Be sure the outlet is in lowercase.
 
 #### Option 2
 Requirements:
