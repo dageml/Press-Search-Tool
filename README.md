@@ -1,6 +1,6 @@
 # Press-Search-Tool
-Author: Dagem Legesse
-Version: 1.0
+- Author: Dagem Legesse
+- Version: 1.0
 ## Overview
 The Press Search Tool is a python CLI application helping users find, filter and export press articles from reputable sources based on keywords or location. It automatically filters out unreliable outlets, cleans the results and exports to a csv using an API application - NewsAPI. 
 
@@ -11,11 +11,11 @@ The Press Search Tool is a python CLI application helping users find, filter and
 - Export a clean, ready to use csv
 
 #### How it works
-Tell the tool what you're looking for - either a keyword or location
-Tool searches the NewsApi database for relevant articles
-Removes unverified sources (This can be adjustable)
-Saves cleaned results as a csv file for you to open
-If needed, you may add or adjust the list of non reputable sources, refer to Option 1 - step 7
+- Tell the tool what you're looking for - either a keyword or location
+- Tool searches the NewsApi database for relevant articles
+- Removes unverified sources (This can be adjustable)
+- Saves cleaned results as a csv file for you to open
+- If needed, you may add or adjust the list of non reputable sources, refer to Option 1 - step 7
 
 #### Ways to Use this Tool
 1. Google Colab
@@ -37,9 +37,9 @@ If needed, you may add or adjust the list of non reputable sources, refer to Opt
 
 #### Option 2
 Requirements:
-Python
-Git
-NewAPI Key (free to sign up)
+- Python
+- Git
+- NewAPI Key (free to sign up)
 
 Step 1:
 git clone https://github.com/YOUR-USERNAME 
@@ -73,7 +73,7 @@ Exported results to data/press_search_new york city.csv
 - Manual addition of non reputable sources
 
 
-### Support 
+#### Support 
 For help using this tool, contact Dagem Legesse at dagemle@gmail.com
 
 
