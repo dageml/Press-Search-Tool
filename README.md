@@ -35,7 +35,7 @@ The Press Search Tool is a python CLI application helping users find, filter and
 6. Download the csv file by clicking on the folder icon
 7. OPTIONAL - To manually adjust list of "bad outlets" click the folder icon, then click Press-Search-Tool, then click src, then click cleaner.py. From there manually type in outlets you want to eliminate from the exported csv. Be sure the outlet is in lowercase.
 
-#### Option 2
+#### Option 2 On your Computer
 Requirements:
 - Python
 - Git
