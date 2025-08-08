@@ -23,14 +23,14 @@ The Press Search Tool is a python CLI application helping users find, filter and
 
 #### Option 1 - Running in Google Colab
 1. Open Google Colab link provided to you
-  - https://colab.research.google.com/drive/1Avntt_UUZ9g281_ggxCz-pC-OB7rXKKe?usp=sharing
+    - https://colab.research.google.com/drive/1Avntt_UUZ9g281_ggxCz-pC-OB7rXKKe?usp=sharing
 2. In Colab, go to each individual cell block numbered in order e.g. [1]
 3. Once each block is executed, a green check mark should appear next to each block
-  - If not then restart program by clicking the down arrow v which is to the left of the up arrow then click disconnect and delete runtime. Repeat steps 1-3.
+    - If not then restart program by clicking the down arrow v which is to the left of the up arrow then click disconnect and delete runtime. Repeat steps 1-3.
 4. When prompted, enter:
-  - keyword (e.g. Medicaid)
-  - whether you want to filter by date (yes or no)
-  - if yes enter date in YYYY-MM-DD format
+    - keyword (e.g. Medicaid)
+    - whether you want to filter by date (yes or no)
+    - if yes enter date in YYYY-MM-DD format
 5. Wait for program to run
 6. Download the csv file by clicking on the folder icon
 7. OPTIONAL - To manually adjust list of "bad outlets" click the folder icon, then click Press-Search-Tool, then click src, then click cleaner.py. From there manually type in outlets you want to eliminate from the exported csv. Be sure the outlet is in lowercase.
