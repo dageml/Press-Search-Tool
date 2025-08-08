@@ -43,14 +43,14 @@ Requirements:
 
 Step 1:
 git clone https://github.com/YOUR-USERNAME 
-      - real clone repository link can be found in block 1 of Google Colab file. Refer to Option 1 -step one for Colab access
+    - real clone repository link can be found in block 1 of Google Colab file. Refer to Option 1 -step one for Colab access
 
 Then:
 cd press-search-tool
 
 Step 2:
 pip install all dependencies - there may be more!
-      - pip install python-dotenv
+    - pip install python-dotenv
 
 Step 4:
 Create an .env file and add the following
